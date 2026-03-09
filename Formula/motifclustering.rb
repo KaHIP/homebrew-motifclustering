@@ -2,7 +2,7 @@ class Motifclustering < Formula
   desc "Combinatorial algorithms for local motif clustering in graphs"
   homepage "https://github.com/LocalClustering/HeidelbergMotifClustering"
   url "https://github.com/LocalClustering/HeidelbergMotifClustering/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "b46685c9c6e54931e40429a35acf279459c4587be8430586ca869dffa5ff0811"
+  sha256 "716c759ec9dd36dec6acc29336e526979b90cd3afe79e57bc6bd588487f7fb63"
   license "MIT"
   head "https://github.com/LocalClustering/HeidelbergMotifClustering.git", branch: "master"
 
